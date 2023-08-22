@@ -1,2 +1,2 @@
 # SQL
-for add and edit CRUD
+for add and edit CRUD using Node.js
